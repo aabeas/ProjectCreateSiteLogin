@@ -1,0 +1,8 @@
+.nav-bar < a{
+  list-style: none;
+  text-decoration: none;
+}
+
+.btn {
+  padding: 0 2rem;
+}
